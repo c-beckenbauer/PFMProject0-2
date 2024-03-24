@@ -2,7 +2,8 @@
 
 <JUCERPROJECT id="lyW5tP" name="PFMProject0-2" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginFormats="buildAU,buildStandalone"
-              pluginCharacteristicsValue="pluginIsSynth" pluginName="CWPlugin0">
+              pluginCharacteristicsValue="pluginIsSynth" pluginName="CWPlugin0"
+              pluginManufacturer="ClockworkSounds">
   <MAINGROUP id="wiVBrc" name="PFMProject0-2">
     <GROUP id="{3206BA35-BBF9-0F66-0A16-EF25C35C26B8}" name="Source">
       <FILE id="mQL4dK" name="PluginProcessor.cpp" compile="1" resource="0"
